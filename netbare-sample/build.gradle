@@ -33,6 +33,7 @@ dependencies {
 
     implementation 'com.google.code.gson:gson:2.8.2'
     implementation 'me.weishu:free_reflection:1.2.0'
+    implementation 'com.blankj:utilcode:1.30.6'
 
     // NetBare libraries
     implementation project(':netbare-core')
